@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GameModel
+namespace GameModel.GameState.Rules.Rule
 {
-    public interface IGame
+    interface IRule
     {
-        void play();
     }
 }

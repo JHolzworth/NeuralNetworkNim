@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AGame.cs" />
+    <Compile Include="GameState\IGameState.cs" />
     <Compile Include="IGame.cs" />
     <Compile Include="Player Models\IPlayers.cs" />
     <Compile Include="Player Models\Player\APlayer.cs" />
@@ -58,7 +59,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="NewFolder1\" />
+    <Folder Include="GameState\Action\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
