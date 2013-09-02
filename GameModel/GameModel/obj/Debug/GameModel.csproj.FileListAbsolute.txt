@@ -5,3 +5,9 @@ C:\Users\jholzworth\Documents\GitHub\NeuralNetworkNim\GameModel\GameModel\bin\De
 C:\Users\jholzworth\Documents\GitHub\NeuralNetworkNim\GameModel\GameModel\obj\Debug\GameModel.csprojResolveAssemblyReference.cache
 C:\Users\jholzworth\Documents\GitHub\NeuralNetworkNim\GameModel\GameModel\obj\Debug\GameModel.exe
 C:\Users\jholzworth\Documents\GitHub\NeuralNetworkNim\GameModel\GameModel\obj\Debug\GameModel.pdb
+C:\Users\Laptop\Documents\GitHub\NeuralNetworkNim\GameModel\GameModel\bin\Debug\GameModel.exe.config
+C:\Users\Laptop\Documents\GitHub\NeuralNetworkNim\GameModel\GameModel\obj\Debug\GameModel.exe
+C:\Users\Laptop\Documents\GitHub\NeuralNetworkNim\GameModel\GameModel\obj\Debug\GameModel.pdb
+C:\Users\Laptop\Documents\GitHub\NeuralNetworkNim\GameModel\GameModel\obj\Debug\GameModel.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\NeuralNetworkNim\GameModel\GameModel\bin\Debug\GameModel.exe
+C:\Users\Laptop\Documents\GitHub\NeuralNetworkNim\GameModel\GameModel\bin\Debug\GameModel.pdb

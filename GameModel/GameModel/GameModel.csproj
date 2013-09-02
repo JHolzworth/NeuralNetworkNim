@@ -49,6 +49,9 @@
     <Compile Include="Player Models\Player\Name\IPlayerName.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Value Models\AValue.cs" />
+    <Compile Include="Value Models\IValue.cs" />
+    <Compile Include="Value Models\Value.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
